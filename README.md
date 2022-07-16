@@ -1,4 +1,4 @@
-### Hey there! My name's Tom. I'm current studying on the Manchester Codes software developer bootcamp and hoping to move into a job in tech soon.
+### Hey there! My name's Tom. I'm currently studying on the Manchester Codes software developer bootcamp and hoping to move into a job in tech soon.
 
 ## Languages and Tools
 
