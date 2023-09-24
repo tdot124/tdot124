@@ -1,4 +1,4 @@
-### Hey there! My name's Tom. I'm currently studying on the Manchester Codes software developer bootcamp and hoping to move into a job in tech soon.
+### Hey there! My name's Tom. I've recently completed a bootcamp with Command Shift and am currently looking for my first job in software development.
 
 ## Languages and Tools
 
